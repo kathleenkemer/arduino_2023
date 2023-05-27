@@ -21,3 +21,6 @@ Ferramenta Tinkercad para simulação de circuitos com Arduino
 
 
 [TUTORIAL TINKERCAD](https://docs.google.com/document/d/1I7PlfpPWVy6Y4VeImEaUasOmkbiJH5Vc2hdiBdDl_28/edit?usp=sharing)
+
+
+[SETE_SEGMENTOS](https://docs.google.com/document/d/1Kqrjt40f0YxdS4gqzsHhwgvUWOcqVeXrE9bU2YgmYC4/edit?usp=sharing)
