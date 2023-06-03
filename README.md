@@ -27,3 +27,5 @@ Ferramenta Tinkercad para simulação de circuitos com Arduino
 
 
 [SETE_SEGMENTOS](https://docs.google.com/document/d/1Kqrjt40f0YxdS4gqzsHhwgvUWOcqVeXrE9bU2YgmYC4/edit?usp=sharing)
+
+[Biblioteca LiquidCrystal](https://www.arduinolibraries.info/libraries/liquid-crystal)
