@@ -19,6 +19,9 @@ Repositório destinado a materiais para turma de Arduino
 [Aula 5](https://www.canva.com/design/DAFiw2R8cYA/Ik-owdicMcYkVjGVWAnBwQ/edit?utm_content=DAFiw2R8cYA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 [Atividade 05](https://docs.google.com/forms/d/e/1FAIpQLSfjWkJ7H0Gfgt7vQvClCFWcgicvYr-RIcdwoULGcl2DLg-g3g/viewform?usp=sf_link)
 
+[Aula 6](https://www.canva.com/design/DAFkCfDaRFA/1WL-l8SUZ0VmxFCVz-pvjw/edit?utm_content=DAFkCfDaRFA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+[Atividade 06](https://docs.google.com/forms/d/e/1FAIpQLSfEaVf-5ZgLxAk80KsYs7-xq1nk98Lw_E8YPTXjmOVhBMIqdg/viewform?usp=sf_link)
+
 Ferramenta Tinkercad para simulação de circuitos com Arduino
 [Tinkercad](https://www.tinkercad.com)
 
