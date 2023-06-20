@@ -22,13 +22,20 @@ Repositório destinado a materiais para turma de Arduino
 [Aula 6](https://www.canva.com/design/DAFkCfDaRFA/1WL-l8SUZ0VmxFCVz-pvjw/edit?utm_content=DAFkCfDaRFA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 [Atividade 06](https://docs.google.com/forms/d/e/1FAIpQLSfEaVf-5ZgLxAk80KsYs7-xq1nk98Lw_E8YPTXjmOVhBMIqdg/viewform?usp=sf_link)
 
+[Aula 7](https://www.canva.com/design/DAFkE-E-WiQ/8kPoTxnhOW6WaLXYgmDpEQ/edit?utm_content=DAFkE-E-WiQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+[Atividade 07](https://docs.google.com/forms/d/e/1FAIpQLSeWYL1BCyGkDsxtZYTS6Tccvsldg_73Tp_6sygg8Q9dMmg1GQ/viewform?usp=sf_link)
+
+___________
 Ferramenta Tinkercad para simulação de circuitos com Arduino
+
 [Tinkercad](https://www.tinkercad.com)
 
 
 [TUTORIAL TINKERCAD](https://docs.google.com/document/d/1I7PlfpPWVy6Y4VeImEaUasOmkbiJH5Vc2hdiBdDl_28/edit?usp=sharing)
 
-
+___________
 [SETE_SEGMENTOS](https://docs.google.com/document/d/1Kqrjt40f0YxdS4gqzsHhwgvUWOcqVeXrE9bU2YgmYC4/edit?usp=sharing)
 
-[Biblioteca LiquidCrystal](https://www.arduinolibraries.info/libraries/liquid-crystal)
+[Código sensor LDR + display LCD](https://docs.google.com/document/d/1FJJc-Xd22jdOhmGsV325s7wdYgDMCBsFd8UQW91YSwg/edit?usp=sharing)
+
+
