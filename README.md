@@ -25,6 +25,10 @@ Repositório destinado a materiais para turma de Arduino
 [Aula 7](https://www.canva.com/design/DAFkE-E-WiQ/8kPoTxnhOW6WaLXYgmDpEQ/edit?utm_content=DAFkE-E-WiQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 [Atividade 07](https://docs.google.com/forms/d/e/1FAIpQLSeWYL1BCyGkDsxtZYTS6Tccvsldg_73Tp_6sygg8Q9dMmg1GQ/viewform?usp=sf_link)
 
+[Aula 8](https://www.canva.com/design/DAFmr7-hcwA/eXASynumi0c7BtkDNsmCnQ/view?utm_content=DAFmr7-hcwA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+___________
+Projeto Final - [Projeto Final](https://www.canva.com/design/DAFnJZoWn-o/ZJH_87TlZIfD35lznOjwLg/view?utm_content=DAFnJZoWn-o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 ___________
 Ferramenta Tinkercad para simulação de circuitos com Arduino
 
